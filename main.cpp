@@ -6,7 +6,7 @@ int main(){
 
 
 cout<<"Hello world"<<endl;
-cout<<"Hello world2"<<endl;
+cout<<"Hello world two"<<endl;
 
 
 return 0;
